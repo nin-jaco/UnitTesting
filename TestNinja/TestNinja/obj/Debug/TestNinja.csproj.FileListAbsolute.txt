@@ -11,3 +11,16 @@
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/EntityFramework.SqlServer.xml
 /Users/moshfeghhamedani/RiderProjects/TestNinja/TestNinja/bin/Debug/Newtonsoft.Json.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\TestNinja.dll.config
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\TestNinja.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\TestNinja.pdb
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\EntityFramework.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\EntityFramework.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\EntityFramework.SqlServer.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\Newtonsoft.Json.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.csprojAssemblyReference.cache
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
