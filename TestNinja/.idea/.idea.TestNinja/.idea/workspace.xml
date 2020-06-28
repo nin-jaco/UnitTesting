@@ -24,9 +24,12 @@
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
@@ -44,12 +47,8 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
@@ -78,6 +77,11 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" />
       </list>
     </option>
   </component>
@@ -143,7 +147,7 @@
       <updated>1507227824194</updated>
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
-      <workItem from="1593186998986" duration="15786000" />
+      <workItem from="1593186998986" duration="25222000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
