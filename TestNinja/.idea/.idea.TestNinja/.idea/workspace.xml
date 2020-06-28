@@ -7,9 +7,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="TestNinja" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -20,9 +17,13 @@
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
@@ -40,14 +41,9 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/ReservationTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Class1.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
@@ -77,6 +73,11 @@
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTest.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" />
       </list>
     </option>
   </component>
@@ -96,7 +97,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
   </component>
   <component name="RunManager" selected=".NET Project.Default">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
@@ -142,7 +143,7 @@
       <updated>1507227824194</updated>
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
-      <workItem from="1593186998986" duration="5814000" />
+      <workItem from="1593186998986" duration="15786000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>
@@ -170,5 +171,11 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="." />
     <option name="LAST_COMMIT_MESSAGE" value="." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="164" key="SettingsEditor" timestamp="1593361542142">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593361542142" />
   </component>
 </project>
