@@ -11,29 +11,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTest.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/Product.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/ErrorLogger.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/HtmlFormatter.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Math.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/CustomerController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/BookingHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/MathTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/HtmlFormatterTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/CustomerControllerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/ErrorLoggerTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FizzBuzzTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/DemeritPointsCalculatorTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/StackTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -48,17 +55,7 @@
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/DemeritPointsCalculator.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/Stack.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/Program.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/OrderService.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
-        <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
-        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/BookingRepository.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/BookingHelperTests.cs" />
         <option value="$PROJECT_DIR$/../../../../../Source Code/Mocking/BookingHelper.cs" />
@@ -80,8 +77,18 @@
         <option value="$PROJECT_DIR$/TestNinja/Mocking/FileReader.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Fundamentals/FizzBuzz.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/FakeFileReader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/OrderServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/Product.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/ProductTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoRepository.cs" />
         <option value="$PROJECT_DIR$/TestNinja/Mocking/VideoService.cs" />
         <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/VideoServiceTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/FileDownloader.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/InstallerHelper.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/InstallerHelperTests.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeStorage.cs" />
+        <option value="$PROJECT_DIR$/TestNinja/Mocking/EmployeeController.cs" />
+        <option value="$PROJECT_DIR$/TestNinja.UnitTests/Mocking/EmployeeControllerTests.cs" />
       </list>
     </option>
   </component>
@@ -148,7 +155,7 @@
       <workItem from="1507227825406" duration="23277000" />
       <workItem from="1508952072060" duration="74000" />
       <workItem from="1593186998986" duration="25222000" />
-      <workItem from="1593413996699" duration="2712000" />
+      <workItem from="1593413996699" duration="13827000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1507240218760</created>

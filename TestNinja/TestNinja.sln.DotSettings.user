@@ -16,6 +16,11 @@
     &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.StackTests.Push_ValidArgs_AddObjectToStack&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.StackTests.Pop_StackWithAFewObjects_ReturnsObjectOnTheTop&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.StackTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.Mocking.ProductTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.Mocking.VideoServiceTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_DownloadFails_ShouldReturnFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.Mocking.InstallerHelperTests.DownloadInstaller_DownloadCompletes_ShouldReturnTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A1F2CC3-EA20-42C0-AF78-0F6EDCD395ED::.NETFramework,Version=v4.7::TestNinja.UnitTests.Mocking.EmployeeControllerTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7fb8b81e_002D7794_002D4875_002D94dc_002Da51c7ee0f11f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="VideoServiceTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
