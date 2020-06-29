@@ -52,7 +52,6 @@
         <e p="CustomerControllerTests.cs" t="Include" />
         <e p="DemeritPointsCalculatorTests.cs" t="Include" />
         <e p="ErrorLoggerTests.cs" t="Include" />
-        <e p="FakeFileReader.cs" t="Include" />
         <e p="FizzBuzzTests.cs" t="Include" />
         <e p="HtmlFormatterTest.cs" t="Include" />
         <e p="MathTests.cs" t="Include" />

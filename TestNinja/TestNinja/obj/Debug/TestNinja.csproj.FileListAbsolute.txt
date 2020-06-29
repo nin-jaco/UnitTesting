@@ -24,3 +24,9 @@ C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.csproj
 C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.csproj.CopyComplete
 C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.dll
 C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\obj\Debug\TestNinja.pdb
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\Castle.Core.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\Castle.Core.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Source\UnitTesting\UnitTesting\TestNinja\TestNinja\bin\Debug\System.Threading.Tasks.Extensions.xml
