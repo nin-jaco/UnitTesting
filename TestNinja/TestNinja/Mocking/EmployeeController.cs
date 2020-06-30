@@ -30,7 +30,7 @@ namespace TestNinja.Mocking
  
     public class RedirectResult : ActionResult { }
     
-    public class EmployeeContext : DbContext
+    public class EmployeeContext 
     {
         public DbSet<Employee> Employees { get; set; }
 
